@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "name":"Tracks Leads",
+    "version":"1.0.1",
+    "icons":{"128":"icon128.png"},
+    "action": {
+        "default_title": "",
+        "default_popup": "index.html",
+        "default_icon": "icon128.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
